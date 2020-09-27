@@ -1,2 +1,2 @@
 # Günlük Korona Verileri
-Günlük korona verilerini çeken test projesi.
+covid19.saglik.gov.tr sitesinden günlük korona verilerini çeken test projesi.
